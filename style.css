@@ -15,6 +15,8 @@ h3 {
 .list {
     background-color: blue;
     display: inline-block;
+    width: 200px;
+    height: 250px;
 }
 
 .dummy1 {
@@ -23,9 +25,3 @@ h3 {
     position: absolute;
 }
 
-.dummy2 {
-   background-color: green; 
-    display: inline-block;
-   position: relative 30px;
-   overflow: scroll;
-}
